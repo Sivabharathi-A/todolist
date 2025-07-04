@@ -56,7 +56,7 @@ todo-list-app/
 1. Clone the repository
    ```bash
    git clone https://github.com/Sivabharathi-A/todolist.git
-   cd todo-list-app
+   cd todolist
    ```
 
 2. Open `index.html` in your browser
